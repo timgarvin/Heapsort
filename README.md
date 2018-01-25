@@ -1,5 +1,5 @@
 # Description
-Heapsort is a C++ program that sorts user-defined values in a Max Heap data structure. This program is made-from-scratch and does not utilize the C++ Standard Template Library (STL).
+Heapsort is a C++ program that sorts user-defined values in a Max Heap data structure using the Bubble Up method. This program is made-from-scratch and does not utilize the C++ Standard Template Library (STL).
 
 # Compilation and Execution
 * Compile: g++ \*.cpp
