@@ -6,7 +6,7 @@ Heapsort is a C++ program that sorts user-defined values in a Max Heap data stru
 * Run Program: ./a.out
 
 # Program Commands
-* sort <total-numbers-to-sort> <number1> <number2> <number3>...<numberx>: Sorts the numbers in the Max Heap using the Bubble Up method and prints out the contents of the maxheap after each deletion of the root.
+* sort \<total-numbers-to-sort> \<number1> \<number2> \<number3>...\<numberx>: Sorts the numbers in the Max Heap using the Bubble Up method and prints out the contents of the maxheap after each deletion of the root.
 	* Examples:
 		<pre>
 		heapsort> sort 3 2 8 43
